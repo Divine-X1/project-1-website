@@ -1,0 +1,27 @@
+NOVAX — Project 1 portfolio (Combell)
+
+PAGINA'S
+- index.html: Startpagina
+- over-mij.html: Over mij / voorstelling
+- cv.html: Curriculum Vitae
+- interesses.html: Interesses
+- hobbys.html: Hobby's
+- ervaring.html: Ervaring, studies en vaardigheden
+- contact.html: Contactformulier
+
+BESTANDSSTRUCTUUR
+- css/style.css: externe CSS (vereist voor Project 1)
+- js/main.js: JavaScript voor het contactformulier
+- images/: afbeeldingen en favicon
+
+UPLOADEN NAAR COMBELL
+1. Pak dit ZIP-bestand uit.
+2. Upload de inhoud (niet de ZIP zelf) naar de publieke webmap van je domein.
+3. Zet index.html rechtstreeks in de publieke map, samen met de andere HTML-bestanden en de mappen css, js en images.
+4. Open je domeinnaam en test alle links.
+
+OPMERKINGEN
+- De website is opgedeeld in aparte HTML-pagina's zoals gevraagd in Project 1: Start, Over mij, Curriculum Vitae, Interesses, Hobby's, Ervaring en Contact.
+- De navigatie werkt met gewone links naar aparte bestanden.
+- Het formulier opent het e-mailprogramma van de bezoeker; het verstuurt niet zelfstandig vanaf de server.
+- Controleer de teksten, vaardigheidsniveaus, foto's en e-mailadres vóór je de opdracht indient.
